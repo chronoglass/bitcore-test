@@ -1,0 +1,27 @@
+{
+  "name": "bitcore-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chronoglass/bitcore-test.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "express",
+    "testing"
+  ],
+  "author": "David",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/chronoglass/bitcore-test/issues"
+  },
+  "dependencies": {
+    "bitcore": "~0.11.4",
+    "express": "~4.12.3"
+  }
+}

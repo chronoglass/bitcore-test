@@ -1,0 +1,10 @@
+#dont sent the modules folder up
+node_modules
+
+# logs and runtime data
+logs
+.log
+
+pids
+*.pid
+*.seed
